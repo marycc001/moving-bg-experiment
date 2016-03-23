@@ -37,7 +37,7 @@ h2 {
   font-family: 'Lovelo', serif;
   font-size: 4vmin;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: none;
   -webkit-transform: translate3d(-50%, -50%, 0);
           transform: translate3d(-50%, -50%, 0);
 }
